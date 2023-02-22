@@ -1,0 +1,12 @@
+int x = 5
+int number = 1
+int t
+int z
+int sum = 7
+%%
+t = x + sum + 8
+z = 6 !
+print z
+for 3
+print x
+end for
